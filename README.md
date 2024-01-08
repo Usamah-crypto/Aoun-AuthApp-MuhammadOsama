@@ -20,7 +20,7 @@ This mobile application is built with React Native and integrates Firebase Authe
   - Onboarding experience for new users.
   - Animations for nice user interaction.
  
-## Features
+## Demo
 A demo video showcasing the app's functionality can be found [here](https://drive.google.com/file/d/1heZNBFxSTITNiqGhuoaSJM_2CbFo3VHe/view?usp=sharing).
 
 # Getting Started
