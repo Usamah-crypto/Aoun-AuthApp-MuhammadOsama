@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088882227214",
+    "project_id": "aounassessment",
+    "storage_bucket": "aounassessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088882227214:android:932f77da3f287f8012645f",
+        "android_client_info": {
+          "package_name": "com.aounassessment_muhammad_osama_haleem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMlN4qur-bAssn0jnv1X3NR36IStw7XOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
